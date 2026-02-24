@@ -1,0 +1,14 @@
+{
+  "buildCommand": "npm run build",
+  "devCommand": "npm run dev",
+  "installCommand": "npm install",
+  "framework": "static",
+  "public": true,
+  "env": [],
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "/portfolio.html"
+    }
+  ]
+}
