@@ -3,8 +3,7 @@
   "devCommand": "npm run dev",
   "installCommand": "npm install",
   "framework": "static",
-  "public": true,
-  "env": [],
+  "env": {},
   "rewrites": [
     {
       "source": "/(.*)",
